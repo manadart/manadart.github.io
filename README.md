@@ -1,7 +1,10 @@
 ## Blog Posts
 
 ### 2019
-- [29-03-2019](https://discourse.jujucharms.com/t/local-maas-development-setup) Local MAAS Development Setup (Discourse)
+- [29-03-2019](https://discourse.jujucharms.com/t/local-maas-development-setup) Local MAAS Development Setup (Juju Discourse)
+
+### 2018
+- [09-09-2018](https://discourse.jujucharms.com/t/manual-network-setup-for-lxd-clustering) Network Setups for LXD Clustering (Juju Discourse)
 
 ### 2016
 - [16-09-2016](https://manadart.github.io/posts/20160916) Twemproxy Twouble
