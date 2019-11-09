@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Blog Posts
 
-You can use the [editor on GitHub](https://github.com/manadart/manadart.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 2019
+- [29-03-2019](https://discourse.jujucharms.com/t/local-maas-development-setup) Local MAAS Development Setup (Discourse)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2016
+- [16-09-2016](https://manadart.github.io/posts/20160916) Twemproxy Twouble
 
-### Markdown
+### 2015
+- [01-06-2015](https://manadart.github.io/posts/20150601) Little Big Bug
+- [12-02-2015](https://manadart.github.io/posts/20150212) GoMock and Matchers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manadart/manadart.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 2014
+- [27-07-2014](https://manadart.github.io/posts/20140727) Redis Wranglin'
