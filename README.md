@@ -18,3 +18,6 @@
 
 ### 2013
 - [14-06-2013](https://manadart.github.io/posts/20130614) Link Description for Xamarin.Android and ServiceStack.Text
+
+### 2012
+- [08-09-2012](https://manadart.github.io/posts/20120908) Customising MyLocationOverlay in Xamarin.Android
