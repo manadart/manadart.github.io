@@ -1,3 +1,11 @@
+## About
+
+My name is joseph Phillips. I am software engineer on the [Juju](https://jaas.ai/) team at [Canonical](https://canonical.com/). 
+
+- [Stack Overflow](https://stackoverflow.com/users/898077/manadart)
+- [Twitter](https://twitter.com/manadart)
+- [LinkedIn](https://au.linkedin.com/in/joseph-phillips-67668123)
+
 ## Blog Posts
 
 ### 2019
