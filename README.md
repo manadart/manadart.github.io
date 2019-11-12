@@ -1,12 +1,12 @@
 ## About
 
-My name is joseph Phillips. I am software engineer on the [Juju](https://jaas.ai/) team at [Canonical](https://canonical.com/). 
-
+My name is joseph Phillips. I'm a software engineer on the [Juju](https://jaas.ai/) team at [Canonical](https://canonical.com/). 
 - [Stack Overflow](https://stackoverflow.com/users/898077/manadart)
 - [Twitter](https://twitter.com/manadart)
 - [LinkedIn](https://au.linkedin.com/in/joseph-phillips-67668123)
 
-## Blog Posts
+
+## Posts
 
 ### 2019
 - [29-03-2019](https://discourse.jujucharms.com/t/local-maas-development-setup) Local MAAS Development Setup (Juju Discourse)
