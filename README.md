@@ -1,18 +1,20 @@
 ## About
 
-My name is joseph Phillips. I'm a software engineer on the [Juju](https://jaas.ai/) team at [Canonical](https://canonical.com/). 
+My name is joseph Phillips. I'm a software engineer on the [Juju](https://juju.is/) team at [Canonical](https://canonical.com/). 
 - [Stack Overflow](https://stackoverflow.com/users/898077/manadart)
-- [Twitter](https://twitter.com/manadart)
 - [LinkedIn](https://au.linkedin.com/in/joseph-phillips-67668123)
 
 
 ## Posts
 
+### 2025
+- [27-01-2025](https://discourse.charmhub.io/t/juju-4-0-architecture/16669) Juju 4.0 Architecture (Charmhub Discourse)
+
 ### 2019
-- [29-03-2019](https://discourse.jujucharms.com/t/local-maas-development-setup) Local MAAS Development Setup (Juju Discourse)
+- [29-03-2019](https://discourse.charmhub.io/t/local-maas-development-setup/1319) Local MAAS Development Setup (Charmhub Discourse)
 
 ### 2018
-- [09-09-2018](https://discourse.jujucharms.com/t/manual-network-setup-for-lxd-clustering) Network Bridge Setups for LXD Clustering (Juju Discourse)
+- [09-09-2018](https://discourse.charmhub.io/t/manual-network-setup-for-lxd-clustering/261) Network Bridge Setups for LXD Clustering (Charmhub Discourse)
 
 ### 2016
 - [16-09-2016](https://manadart.github.io/posts/20160916) Twemproxy Twouble
